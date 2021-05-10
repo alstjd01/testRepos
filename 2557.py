@@ -1,2 +1,2 @@
 print('Hello, World!')
-print('hello, too')
+print('hello, 123')
